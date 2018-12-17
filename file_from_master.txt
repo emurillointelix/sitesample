@@ -1,4 +1,4 @@
 Hola esto lo agrego en local (Creada desde local en el branche SS.00.00.01)
-Hola esto es una prueba (Creada desde master) (Creada desde SS.00.00.02)
+Hola esto es una prueba (Creada desde master) (Creada desde SS.00.00.01 y fusionada con SS.00.00.02)
 Hola esto lo agrego desde el branche y lo modifico desde el local (Creada desde el branche SS.00.00.01 y modificado en local)
 
